@@ -1,13 +1,13 @@
----
+Eth 2.0
 title: Media types
 intro: Learn about media types for specifying the format of the data you want to consume.
 redirect_from:
   - /v3/media
-versions:
+versions:2.0
   free-pro-team: '*'
   enterprise-server: '*'
   github-ae: '*'
----
+Eth 2.0
 
 
 Custom media types are used in the API to let consumers choose the format
